@@ -83,6 +83,7 @@
                     <a href="{{ route('jquery') }}">jquery</a>
                     <a href="{{ route('formulario') }}">Formulario</a>
                     <a href="{{ route('combos') }}">combos-dinamicos</a>
+                    <a href="{{ route('calculadora') }}">calculadora</a>
                     <hr>
                     <a href="{{ route('jqueryboton') }}">jquery-boton</a>
                     <a href="{{ route('coloresjquery') }}">colores-jquery</a>

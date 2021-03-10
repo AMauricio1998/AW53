@@ -32,6 +32,7 @@ Route::name('valor')->get('valor/', function () { return view('valor'); });
 Route::name('jqueryboton')->get('jqueryboton/', function () { return view('jqueryboton'); });
 Route::name('coloresjquery')->get('coloresjquery/', function () { return view('coloresjquery'); });
 Route::name('examen')->get('examen/', function () { return view('examen'); });
+Route::name('calculadora')->get('calculadora/', function () { return view('calculadora'); });
 
 //---------------------------------------------------------------------------
 //---------------------------------------------------------------------------
